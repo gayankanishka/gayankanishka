@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning GraphQL and React Native
 - 💬 Ask me about .NET, JavaScript, TypeScript and Azure Cloud
 - 🥅 2020 Goals: Improve my Tech stack :see_no_evil:
-- ⚡ Fun fact: I love to play guitar and watch Movies
+- ⚡ Fun fact: I love to play guitar and watch movies
 
 ### Connect with me:
 
