@@ -1,5 +1,9 @@
 ## Hi there, I'm Gayan K 👋
 
+[![](https://img.shields.io/badge/-@gayankanishka-%23181717?style=flat-square&logo=github)](https://github.com/gayankanishka)
+[![](https://img.shields.io/badge/-Gayan%20Kanishka%20Wijethunga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gayan-kanishka-wijetunga-82740078/)](https://www.linkedin.com/in/gayan-kanishka-wijetunga-82740078/)
+[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=gayankanishka.github.io&url=https%3A%2F%2Fgayankanishka.github.io)](https://gayankanishka.github.io/)
+
 - 🔭 I’m currently working on .NET and Angular projects
 - 🌱 I’m currently learning React Native
 - 💬 Ask me about .NET, JavaScript, TypeScript, python and Azure Cloud
@@ -12,6 +16,4 @@
 
 ### Connect with me:
 
-[<img align="left" alt="website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://gayankanishka.github.io/)
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/gayan-kanishka-wijetunga-82740078/)
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/gayan_wijetunga/)
