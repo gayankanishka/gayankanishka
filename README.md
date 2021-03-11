@@ -14,3 +14,7 @@
 ## 𝗦𝘁𝗮𝘁𝘀
 
 ![gayankanishka's github stats](https://github-readme-stats.vercel.app/api?username=gayankanishka&show_icons=true&theme=radical)
+
+## Top Languages
+
+![gayankanishka's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gayankanishka)
