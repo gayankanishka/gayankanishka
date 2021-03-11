@@ -6,6 +6,10 @@
 - 🥅 2021 Goals: Be more productive :see_no_evil:
 - ⚡ Fun fact: I love to play guitar and watch movies
 
+## 𝗦𝘁𝗮𝘁𝘀
+
+![gayankanishka's github stats](https://github-readme-stats.vercel.app/api?username=gayankanishka&show_icons=true&theme=radical)
+
 ### Connect with me:
 
 [<img align="left" alt="website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://gayankanishka.github.io/)
