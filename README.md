@@ -6,7 +6,7 @@
 [![](https://img.shields.io/badge/-@gayan_wijetunga-%23181717?style=flat-square&logo=instagram)](https://www.instagram.com/gayan_wijetunga/)
 
 - 🔭 I’m currently working on .NET and Angular projects
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently learning ML
 - 💬 Ask me about .NET, JavaScript, TypeScript and Azure Cloud
 - 🥅 2021 Goals: Be more productive :see_no_evil:
 - ⚡ Fun fact: I love to play guitar and watch movies
