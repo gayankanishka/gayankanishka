@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on .NET and Angular projects
 - 🌱 I’m currently learning React Native
-- 💬 Ask me about .NET, JavaScript, TypeScript, python and Azure Cloud
+- 💬 Ask me about .NET, JavaScript, TypeScript and Azure Cloud
 - 🥅 2021 Goals: Be more productive :see_no_evil:
 - ⚡ Fun fact: I love to play guitar and watch movies
 
