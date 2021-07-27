@@ -14,7 +14,7 @@
 ## 𝗦𝘁𝗮𝘁𝘀
 
 <div align="center">
-  <img src ="https://github-readme-stats.vercel.app/api?username=gayankanishka&show_icons=true&count_private=true&theme=dark&hide_border=true&hide=issues,contribs&line_height=30">
+  <img src ="https://github-readme-stats.vercel.app/api?username=gayankanishka&show_icons=true&count_private=true&theme=dark&hide_border=true,contribs&line_height=30">
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=gayankanishka&layout=compact&hide_border=true&theme=dark&langs_count=6&hide=css">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=gayankanishka&theme=dark&hide_border=true&include_all_commits=true">
 </div>
