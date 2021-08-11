@@ -1,6 +1,7 @@
 ## Hi there, I'm Gayan K 👋
 
 [![](https://img.shields.io/badge/-@gayankanishka-%23181717?style=flat-square&logo=github)](https://github.com/gayankanishka)
+![](https://komarev.com/ghpvc/?username=gayankanishka&color=green&style=flat-square)
 [![](https://img.shields.io/badge/-Gayan%20Kanishka%20Wijetunga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gayan-kanishka-wijetunga-82740078/)](https://www.linkedin.com/in/gayan-kanishka-wijetunga-82740078/)
 [![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=gayankanishka.github.io&url=https%3A%2F%2Fgayankanishka.github.io)](https://gayankanishka.github.io/)
 [![](https://img.shields.io/badge/-@gayan_wijetunga-%23181717?style=flat-square&logo=instagram)](https://www.instagram.com/gayan_wijetunga/)
