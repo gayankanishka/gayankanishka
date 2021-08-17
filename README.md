@@ -12,10 +12,11 @@
 - 🥅 2021 Goals: Be more productive :see_no_evil:
 - ⚡ Fun fact: I love to play guitar and watch movies
 
-## 𝗦𝘁𝗮𝘁𝘀
+### My Statistics
 
 <div align="center">
-  <img src ="https://github-readme-stats.vercel.app/api?username=gayankanishka&show_icons=true&count_private=true&theme=dark&hide_border=true,contribs&line_height=30">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=gayankanishka&layout=compact&hide_border=true&theme=dark&langs_count=6&hide=css">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=gayankanishka&theme=dark&hide_border=true&include_all_commits=true">
+  <img src ="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gayankanishka&theme=vue">
+  <img src ="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gayankanishka&theme=vue">
+  <img src ="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gayankanishka&theme=vue">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=gayankanishka&theme=vue&hide_border=true&include_all_commits=true">
 </div>
