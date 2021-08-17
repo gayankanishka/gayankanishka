@@ -6,7 +6,7 @@
 [![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=gayankanishka.github.io&url=https%3A%2F%2Fgayankanishka.github.io)](https://gayankanishka.github.io/)
 [![](https://img.shields.io/badge/-@gayan_wijetunga-%23181717?style=flat-square&logo=instagram)](https://www.instagram.com/gayan_wijetunga/)
 
-- 🔭 I’m currently working on .NET and Angular projects
+- 🔭 I’m currently working on .NET and React projects
 - 🌱 I’m currently learning Big Data Analytics
 - 💬 Ask me about .NET, JavaScript, TypeScript and Azure Cloud
 - 🥅 2021 Goals: Be more productive :see_no_evil:
