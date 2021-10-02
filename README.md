@@ -1,4 +1,4 @@
-## Hi there, I'm Gayan K 👋
+## Hi there, I'm Gayan K 🤓👋
 
 [![](https://img.shields.io/badge/-@gayankanishka-%23181717?style=flat-square&logo=github)](https://github.com/gayankanishka)
 ![](https://komarev.com/ghpvc/?username=gayankanishka&color=green&style=flat-square)
