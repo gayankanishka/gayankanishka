@@ -1,4 +1,4 @@
-## Hi there, I'm Gayan K 🤓👋
+# Hi there, I'm Gayan K 🤓👋
 
 ![](https://komarev.com/ghpvc/?username=gayankanishka&color=green&style=flat-square)
 [![](https://img.shields.io/badge/-Gayan%20Kanishka%20Wijetunga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gayan-kanishka-wijetunga-82740078/)](https://www.linkedin.com/in/gayan-kanishka-wijetunga-82740078/)
