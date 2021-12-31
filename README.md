@@ -7,7 +7,7 @@
 [![](https://img.shields.io/badge/-@gayankanishka-%23181717?style=flat-square&logo=github)](https://github.com/gayankanishka)
 
 - 🔭 I’m currently working on .NET and React projects
-- 🌱 I’m currently learning Big Data Analytics
+- 🌱 I’m currently learning GitOps and Kubernetes
 - 💬 Ask me anything about .NET, JavaScript, TypeScript, Azure and AWS
 - 🥅 2021 Goals: Be more productive :see_no_evil:
 - ⚡ Fun fact: I love to play guitar and watch movies
