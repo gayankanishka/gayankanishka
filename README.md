@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on .NET and React projects
 - 🌱 I’m currently learning GitOps and Kubernetes
 - 💬 Ask me anything about .NET, JavaScript, TypeScript, Azure and AWS
-- 🥅 2021 Goals: Be more productive :see_no_evil:
+- 🥅 2022 Goals: Be more productive :see_no_evil:
 - ⚡ Fun fact: I love to play guitar and watch movies
 
 ### My Statistics
