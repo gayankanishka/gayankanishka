@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00d2ff&height=200&section=header&text=Gayan%20Kanishka&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20.NET%20%26%20React%20%7C%20Cloud%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00d2ff&height=200&section=header&text=Gayan%20Kanishka&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20.NET%20%26%20React%20%7C%20Cloud%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
 
 <div align="center">
 
@@ -12,7 +12,7 @@
 
 ## 👋 About Me
 
-Hey! I'm **Gayan** — a full-stack developer based in Sri Lanka who loves building clean, scalable software. By day I craft APIs and UIs with **.NET, React, and TypeScript**; by night I'm either lost in a film or trying to nail a riff on my guitar 🎸. I'm passionate about cloud-native architectures on **Azure** and **AWS**, and I'm always hunting for the next interesting problem to solve.
+Hey! I'm **Gayan** — a Lead Software Engineer with 8+ years of full-stack experience and an MSc in Advanced Software Engineering (Distinction) from the University of Westminster. I build clean, scalable systems with **.NET, React, and TypeScript** and architect cloud-native solutions on **AWS** and **Azure**. When I'm not shipping code I'm either lost in a film 🎬 or chasing guitar riffs 🎸.
 
 ---
 
@@ -44,7 +44,8 @@ Hey! I'm **Gayan** — a full-stack developer based in Sri Lanka who loves build
 **Databases**
 
 [![Databases](https://skillicons.dev/icons?i=postgres,redis,mysql&theme=dark)](https://skillicons.dev)
-[![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
+[![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
+[![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)](https://aws.amazon.com/dynamodb/)
 
 **Cloud & Infrastructure**
 
@@ -53,7 +54,7 @@ Hey! I'm **Gayan** — a full-stack developer based in Sri Lanka who loves build
 **Tools**
 
 [![Tools](https://skillicons.dev/icons?i=git,vscode,github&theme=dark)](https://skillicons.dev)
-[![Claude Code](https://img.shields.io/badge/Claude%20Code-Anthropic-CC785C?style=flat-square&logo=anthropic&logoColor=white)](https://claude.ai/code)
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-Anthropic-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)](https://claude.ai/code)
 
 </div>
 
@@ -70,6 +71,12 @@ Hey! I'm **Gayan** — a full-stack developer based in Sri Lanka who loves build
 
 </div>
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gayankanishka&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1"/>
+</div>
+
 ---
 
 ## 📈 Contribution Activity
@@ -82,4 +89,11 @@ Hey! I'm **Gayan** — a full-stack developer based in Sri Lanka who loves build
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d2ff,100:0d1117&height=120&section=footer&text=Building%20things%20that%20matter%2C%20one%20commit%20at%20a%20time.&fontSize=14&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
+## 🏅 Certifications
+
+[![Claude Code](https://img.shields.io/badge/Claude%20Code%3A%20SE%20with%20AI%20Agents-Vanderbilt%20University-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)](https://coursera.org/verify/DLSCKX0W0QFR)
+[![Google AI Essentials](https://img.shields.io/badge/Google%20AI%20Essentials-Google-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://coursera.org/verify/RWD1GE90BWK9)
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d2ff,100:0d1117&height=120&section=footer&text=Building%20things%20that%20matter%2C%20one%20commit%20at%20a%20time.&fontSize=14&fontColor=ffffff&fontAlignY=65" width="100%"/>
