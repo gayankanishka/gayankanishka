@@ -35,19 +35,25 @@ Hey! I'm **Gayan** — a full-stack developer based in Sri Lanka who loves build
 
 **Languages**
 
-[![Languages](https://skillicons.dev/icons?i=cs,js,ts&theme=dark)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=cs,js,ts,html,css&theme=dark)](https://skillicons.dev)
 
-**Frameworks**
+**Frameworks & Libraries**
 
-[![Frameworks](https://skillicons.dev/icons?i=dotnet,react,angular&theme=dark)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=dotnet,react,nextjs,angular,nodejs&theme=dark)](https://skillicons.dev)
+
+**Databases**
+
+[![Databases](https://skillicons.dev/icons?i=postgres,redis,mysql&theme=dark)](https://skillicons.dev)
+[![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
 
 **Cloud & Infrastructure**
 
-[![Cloud](https://skillicons.dev/icons?i=azure,aws&theme=dark)](https://skillicons.dev)
+[![Cloud](https://skillicons.dev/icons?i=aws,azure,docker,githubactions&theme=dark)](https://skillicons.dev)
 
 **Tools**
 
-[![Tools](https://skillicons.dev/icons?i=git,vscode,docker&theme=dark)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,vscode,github&theme=dark)](https://skillicons.dev)
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-Anthropic-CC785C?style=flat-square&logo=anthropic&logoColor=white)](https://claude.ai/code)
 
 </div>
 
