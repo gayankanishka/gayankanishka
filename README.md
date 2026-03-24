@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00d2ff&height=200&section=header&text=Gayan%20Kanishka&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20.NET%20%26%20React%20%7C%20Cloud%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00d2ff&height=200&section=header&text=Gayan%20Kanishka&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20.NET%20%26%20React%20%7C%20Cloud%20Enthusiast&descAlignY=58&descSize=18&stroke=0" width="100%"/>
 
 <div align="center">
 
@@ -70,14 +70,6 @@ Hey! I'm **Gayan** — a Lead Software Engineer with 8+ years of full-stack expe
 <img src="https://github-readme-streak-stats.herokuapp.com?user=gayankanishka&theme=github-dark-blue&hide_border=true&include_all_commits=true" height="165"/>
 
 </div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gayankanishka&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1"/>
-</div>
-
----
 
 ## 📈 Contribution Activity
 
